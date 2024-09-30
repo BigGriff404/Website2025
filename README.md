@@ -10,3 +10,5 @@ This is my coding journey! No excuses!
 * [Google Fonts](fonts.google.com)
 * [Accessibility Guide](https://www.accessibility-developer-guide.com)
 * [CSS Tricks](css-tricks.com)
+* [Favicon Generator](https://realfavicongenerator.net)
+* [Font Awesome](https://fontawesome.com)
