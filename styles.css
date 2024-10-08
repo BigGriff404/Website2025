@@ -1,18 +1,26 @@
+@import url("global.css");
+@import url(fonts.css);
 a {
  text-decoration: none;
 }
+
 i {
- color: #663399;
+ color: var(--lightmodePurple);
 }
-footer {
- background-color: #f8f9fa;
- padding: 20px 0;
+i:hover {
+ color: var(--lightmodeGreen);
+}
+
+#cta-text {
+ font-size: 24px;
+ font-weight: bold;
+ text-align: center;
 }
 
 .footer-content {
+ display: block;
  max-width: 1200px;
  margin: 0 auto;
- padding: 0 20px;
  justify-content: center;
  align-items: center;
 }
@@ -90,6 +98,6 @@ address {
 
 .copyright {
  font-size: 12px;
- color: #6c757d;
+ color: var(--lightmodeFont-Gray);
  text-align: center;
 }
