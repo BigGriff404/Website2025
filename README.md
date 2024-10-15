@@ -12,3 +12,11 @@ This is my coding journey! No excuses!
 * [CSS Tricks](css-tricks.com)
 * [Favicon Generator](https://realfavicongenerator.net)
 * [Font Awesome](https://fontawesome.com)
+
+## Instagram Users
+
+* [@baby_wolf_codes](https://www.instagram.com/baby_wolf_codes/)
+
+## Youtube Creators
+
+[Adrian Twarog](https://www.youtube.com/@AdrianTwarog)
